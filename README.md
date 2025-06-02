@@ -2,22 +2,20 @@
 ![App Screenshot](./talkify.png)
 
 
-A real-time chat application built with **React** for the frontend and **Node.js** with **Socket.IO** for the backend. This app allows users to join rooms and chat with others in real-time.
+A real-time chat application built with **Vite + React** for the frontend and **Node.js** with **Socket.IO** and **MongoDB Atlas** for the backend. This app allows users to join rooms and chat with others in real-time.
 
 ## 🌟 Features
 
 - 🗨️ Real-time messaging with Socket.IO  
-- 🧑‍🤝‍🧑 Join specific chat rooms  
-- 🔐 User authentication (if implemented)  
+- 🔐 User authentication  
 - 📱 Responsive design for mobile and desktop  
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React  
-- **Backend:** Node.js, Express  
+- **Frontend:** React + Vite  
+- **Backend:** Node.js, Express, MongoDB  
 - **Real-time Communication:** Socket.IO  
 - **Styling:** CSS / Tailwind CSS (based on your choice)  
-
 
 ## 📦 Installation
 
@@ -25,11 +23,10 @@ A real-time chat application built with **React** for the frontend and **Node.js
 
 ### 1. Navigate to the `backend` directory:
 
-   ```bash
+```
    cd backend
 ```
 ### Install dependencies:
-
 ```
 npm install
 ```
