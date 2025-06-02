@@ -54,6 +54,13 @@ npm start
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 ## 📄 License
-This project is licensed under the MIT License.
+MIT License
+
+Copyright (c) 2025 CodeConsistency
+
+Permission is granted to use, copy, modify, and distribute this software freely,  
+provided the original copyright notice and this permission notice are included.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 Made with ❤️ by @mr-coder-raj
