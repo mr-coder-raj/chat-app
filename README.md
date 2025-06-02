@@ -24,7 +24,7 @@ A real-time chat application built with **Vite + React** for the frontend and **
 ### 1. Navigate to the `backend` directory:
 
 ```
-   cd backend
+cd backend
 ```
 ### Install dependencies:
 ```
